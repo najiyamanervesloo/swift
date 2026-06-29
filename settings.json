@@ -1,0 +1,17 @@
+{
+  "activePrinterId": "mock-hp",
+  "rates": {
+    "mono": 2,
+    "color": 10,
+    "a4": 0,
+    "a3": 5,
+    "receipt": -0.5,
+    "duplex": 1
+  },
+  "enableCounterPayment": true,
+  "serviceFee": 0,
+  "paymentMode": "upi",
+  "upiId": "shaharukhhakim29-1@okhdfcbank",
+  "razorpayKeyId": "",
+  "razorpayKeySecret": ""
+}
